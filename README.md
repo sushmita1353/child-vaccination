@@ -1,5 +1,3 @@
-# child-vaccination
-
 # Child Vaccination Management System
 
 ## Overview
